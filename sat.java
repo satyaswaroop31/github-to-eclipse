@@ -13,6 +13,7 @@ public class JavaExample {
          * present in the array
          */
        triple average = total / arr.length;
+        double average=total / arr.length;s
         
         /* This is used for displaying the formatted output
          * if you give %.4f then the output would have 4 digits
