@@ -12,7 +12,7 @@ public class JavaExample {
         /* arr.length returns the number of elements 
          * present in the array
          */
-        double average = total / arr.length;
+       triple average = total / arr.length;
         
         /* This is used for displaying the formatted output
          * if you give %.4f then the output would have 4 digits
